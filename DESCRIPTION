@@ -8,7 +8,7 @@ Description: A manifest package for Illumina's EPIC v2.0 methylation arrays. The
 Authors@R: person("Zuguang", "Gu", email = "z.gu@dkfz.de", role = c("aut", "cre"),
                   comment = c('ORCID'="0000-0002-7395-8709"))
 License: Artistic-2.0
-Depends: R (>= 4.0.0), minfi
+Depends: R (>= 3.6.1), minfi
 Imports: utils
 Suggests: knitr, IlluminaHumanMethylationEPICmanifest, eulerr
 URL: https://www.illumina.com/products/by-type/microarray-kits/infinium-methylation-epic.html
